@@ -1,0 +1,91 @@
+/* Tu CSS va aqui */
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 
+}
+.mi-portf {
+	color: #F05F40;
+}
+.menu li a {
+	color: black;
+}
+hr {
+	width: 10%;
+	color: #F05F40;
+}
+.fondo-img {
+	background-image: url("../img/header.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;	
+	padding: 10%;
+	text-align: center;
+}
+.fondo-img h1, p{
+	color: #ffffff;
+}
+.fondo-img h1 {
+	font-size: 350%;
+}
+.con-mas {
+	background-color: #F05F40;
+	border: transparent;
+	border-radius: 50px; 
+}
+.marg-jumb {
+	margin-top: -2.18%;
+}
+.sobre-mi {
+	background-color: #F05F40;
+	text-align: center;
+	color: #ffffff;
+	padding: 7%;
+}
+.sobre-mi h1 {
+	font-size: 250%;
+}
+.menu-icons {
+	text-align: center;
+}
+.col-lg-3 i {
+	font-size: 300%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
